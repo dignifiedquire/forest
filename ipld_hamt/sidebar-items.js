@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["DEFAULT_BIT_WIDTH","Default bit width for indexing a hash at each depth level"]],"enum":[["Error","HAMT Error"]],"struct":[["Hamt","Implementation of the HAMT data structure for IPLD."]],"trait":[["Hash","Custom trait to avoid issues like https://github.com/rust-lang/rust/issues/27108."]]});

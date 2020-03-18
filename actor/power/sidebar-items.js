@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Method","Storage power actor methods available"]],"struct":[["Actor","Storage Power Actor"],["State","Storage power actor state"]]});

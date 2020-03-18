@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["forest_libp2p"] = [{"text":"impl Decoder for <a class=\"struct\" href=\"forest_libp2p/rpc/struct.InboundCodec.html\" title=\"struct forest_libp2p::rpc::InboundCodec\">InboundCodec</a>","synthetic":false,"types":["forest_libp2p::rpc::codec::InboundCodec"]},{"text":"impl Decoder for <a class=\"struct\" href=\"forest_libp2p/rpc/struct.OutboundCodec.html\" title=\"struct forest_libp2p::rpc::OutboundCodec\">OutboundCodec</a>","synthetic":false,"types":["forest_libp2p::rpc::codec::OutboundCodec"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

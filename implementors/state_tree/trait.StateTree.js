@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["state_tree"] = [{"text":"impl&lt;'_, S&gt; <a class=\"trait\" href=\"state_tree/trait.StateTree.html\" title=\"trait state_tree::StateTree\">StateTree</a> for <a class=\"struct\" href=\"state_tree/struct.HamtStateTree.html\" title=\"struct state_tree::HamtStateTree\">HamtStateTree</a>&lt;'_, S&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;S: <a class=\"trait\" href=\"ipld_blockstore/trait.BlockStore.html\" title=\"trait ipld_blockstore::BlockStore\">BlockStore</a>,&nbsp;</span>","synthetic":false,"types":["state_tree::HamtStateTree"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

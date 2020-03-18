@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BLOCKSYNC_PROTOCOL_ID",""]],"struct":[["BlockSyncRequest","The payload that gets sent to another node to request for blocks and messages. It get DagCBOR serialized before sending over the wire."],["BlockSyncResponse","The response to a BlockSync request."],["TipSetBundle","Contains the blocks and messages in a particular tipset"]]});

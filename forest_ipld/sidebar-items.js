@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""],["Ipld","Represents IPLD data structure used when serializing and deserializing data"]],"fn":[["from_ipld","Convert a `Ipld` structure into a type `T` Currently converts using a byte buffer with serde_cbor"],["to_ipld","Convert any object into an IPLD object"]]});
